@@ -13,7 +13,7 @@ Iniciando o aprendizado em React, e almejando ser FullStack.
 <br>
 <br>
 
-![Vanderson stats](https://github-readme-stats.vercel.app/api?username=Vandersonlira&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vandersonlira)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=Vandersonlira)
